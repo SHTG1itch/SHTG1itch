@@ -5,7 +5,7 @@ I do random stuff most of the time, but I'm really passionate about Formula 1 an
 
 ## Projects
 
-- ### 🏁 [F1-ELO-Rankings](f1.clouddev.cc)
+- ### 🏁 [F1-ELO-Rankings](https://f1.clouddev.cc)
 Interactive Formula 1 driver rankings powered by ELO ratings:
 - Built in collaboration with Penguin0011
 - Bayesian Elo System
