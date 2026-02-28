@@ -15,7 +15,7 @@ Interactive Formula 1 driver rankings powered by ELO ratings:
 - ⚡ Real-time statistics and performance metrics
 - Built with **JavaScript** and data visualization libraries
 
-- ### 🏎️ [Open Strategy Simulator](https://github.com/SHTG1itch/OpenStrategySimulator)
+- ### 🏆 [Open Strategy Simulator](https://github.com/SHTG1itch/OpenStrategySimulator)
 A Formula 1 race strategy editor that lets you simulate the outcome of your own strategic choices:
 - 🔧 Edit and experiment with pit stop strategies to see how they affect race results
 - 📊 Simulate alternative strategies and compare them against what actually happened on track
