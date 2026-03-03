@@ -2,7 +2,7 @@
 
 🏎️ **Formula 1 & Cars Enthusiast** | 💻 **Full-Stack Developer** | 🌐 **Open Source Builder**
 
-> Building tools that let fans dive deeper into the sport they love — from ELO-rated driver histories to race strategy simulators.
+> I do random stuff most of the time, but I'm really passionate about Formula 1 and cars in general.
 
 ---
 
@@ -45,7 +45,6 @@
 
 ## What I'm Doing
 
-- 🏎️ Expanding **F1-ELO-Rankings** with more historical data and new visualizations
 - 🛠️ Improving race strategy accuracy in **Open Strategy Simulator**
 - 🌱 Exploring new data sources and APIs to enrich F1 analytics tooling
 - 📖 Learning more about data engineering and statistical modeling
@@ -58,7 +57,7 @@
 
 ---
 
-### Philosophy
+### Why OpenStrategy?
 
-> "The best race strategy is the one you actually understand — so let's make it visible."
+> "Ferrari hasn't been doing great, so let's fix that."
 
