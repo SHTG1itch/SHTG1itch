@@ -43,6 +43,12 @@
   - 🎨 **CSS** (21.7%) — Polished, responsive design with custom styling and smooth visual transitions
   - 🏗️ **HTML** (0.3%) — Foundational page structure and layout scaffolding
 
+- ### 💊 [ISpyPill](https://github.com/SHTG1itch/ISpyPill)
+  An intelligent pill counting web app that analyzes photos to detect and count pills accurately:
+  - 📷 Uses a reference pill and computer vision to separate and count pills in group images
+  - ⚙️ Combines a **Python** backend with a responsive **JavaScript** frontend for fast analysis and clear results
+  - 🎨 Styled with **CSS** and structured with **HTML** for an accessible, mobile-friendly user experience
+
 ---
 
 
@@ -63,4 +69,3 @@
 ### Why OpenStrategy?
 
 > "Ferrari hasn't been doing great, so let's fix that."
-
