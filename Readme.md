@@ -49,6 +49,13 @@
   - ⚙️ Combines a **Python** backend with a responsive **JavaScript** frontend for fast analysis and clear results
   - 🎨 Styled with **CSS** and structured with **HTML** for an accessible, mobile-friendly user experience
 
+- ### 🎵 [ModAudio](https://github.com/SHTG1itch/ModAudio)
+  A Python-based modular audio processing toolkit designed for custom audio manipulation, effects, and signal routing:
+  - Easily create, chain, and experiment with custom audio effects and processors
+  - Useful for both music/sound design prototyping and more technical audio research
+  - Modular structure makes it easy to add new plugins or signal paths
+  - Written in **Python** for maximum flexibility and rapid experimentation
+
 ---
 
 
@@ -57,6 +64,7 @@
 - 🛠️ Improving race strategy accuracy in **Open Strategy Simulator**
 - 🌱 Exploring new data sources and APIs to enrich F1 analytics tooling
 - 📖 Learning more about data engineering and statistical modeling
+- 🎵 Actively developing **ModAudio** for research and creative sound experiments
 
 ---
 
