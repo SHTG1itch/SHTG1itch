@@ -56,6 +56,16 @@
   - Modular structure makes it easy to add new plugins or signal paths
   - Written in **Python** for maximum flexibility and rapid experimentation
 
+- ### ⚽ [SportCoachMeshAnalysis](https://github.com/SHTG1itch/SportCoachMeshAnalysis)
+  A TypeScript-powered sports coaching and mesh analysis project focused on analyzing movement patterns and generating actionable insights from visual data:
+  - 🧠 Built around structured analysis workflows for interpreting sports performance from mesh-based or pose-derived data
+  - 📈 Helps identify movement patterns, technique trends, and areas for improvement in coaching contexts
+  - 🎯 Designed to support data-driven feedback for athletes and coaches through clear, practical analysis outputs
+  - 🖥️ **TypeScript** (96.2%) — Core application logic, analysis pipelines, and project structure
+  - 🎨 **CSS** (1.4%) — Presentation and layout styling
+  - 🏗️ **HTML** (1.4%) — Interface scaffolding and content structure
+  - ⚙️ **JavaScript** (1%) — Supporting functionality where needed
+
 ---
 
 
