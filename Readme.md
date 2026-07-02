@@ -1,4 +1,4 @@
-# Hi, I'm Glitch 👋
+# Hi, I'm Srivats Iyer 👋
 
 🏎️ **Formula 1 & Cars Enthusiast** | 💻 **Full-Stack Developer** | 🌐 **Open Source Builder**
 
