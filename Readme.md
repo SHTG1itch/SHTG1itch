@@ -66,6 +66,13 @@
   - 🏗️ **HTML** (1.4%) — Interface scaffolding and content structure
   - ⚙️ **JavaScript** (1%) — Supporting functionality where needed
 
+- ### 🚀 [Vollo](https://github.com/SHTG1itch/Vollo)
+  A Strava-inspired tennis community platform designed to help build a tighter-knit tennis community through shared activity, connection, and engagement:
+  - ⚙️ Built primarily with **TypeScript** for robust application logic and long-term maintainability
+  - 🧩 Uses **JavaScript** for supporting functionality and integration where needed
+  - 🗄️ Includes **PLpgSQL** for database-side logic and data operations
+  - 🐚 Includes a small amount of **Shell** scripting for tooling and automation
+
 ---
 
 
