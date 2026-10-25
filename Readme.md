@@ -43,6 +43,13 @@
   - 🎨 **CSS** (21.7%) — Polished, responsive design with custom styling and smooth visual transitions
   - 🏗️ **HTML** (0.3%) — Foundational page structure and layout scaffolding
 
+- ### 🌬️ [AeroDynamicSim Blender Files](https://github.com/SHTG1itch/AeroDynamicSim-Blender-Files-)
+  A computational fluid dynamics simulation project that visualizes aerodynamic streamlines across a Red Bull RB19 Formula 1 car:
+  - 🏎️ Shows airflow and aerodynamic behavior around a detailed **Red Bull RB19** model
+  - 🌪️ Visualizes CFD-inspired streamlines to make airflow patterns easier to understand
+  - 🧊 Built around **Blender** files for creating and exploring the aerodynamic simulation
+  - 🛠️ Includes PowerShell tooling to restore the chunked Blender files from the project's GitHub Release
+
 - ### 💊 [ISpyPill](https://github.com/SHTG1itch/ISpyPill)
   An intelligent pill counting web app that analyzes photos to detect and count pills accurately:
   - 📷 Uses a reference pill and computer vision to separate and count pills in group images
@@ -52,7 +59,7 @@
 - ### 🎵 [ModAudio](https://github.com/SHTG1itch/ModAudio)
   A Python-based modular audio processing toolkit designed for custom audio manipulation, effects, and signal routing:
   - Easily create, chain, and experiment with custom audio effects and processors
-  - Useful for both music/sound design prototyping and more technical audio research
+  - Useful for music/sound design prototyping and more technical audio research
   - Modular structure makes it easy to add new plugins or signal paths
   - Written in **Python** for maximum flexibility and rapid experimentation
 
@@ -82,8 +89,6 @@
 - 🌱 Exploring new data sources and APIs to enrich F1 analytics tooling
 - 📖 Learning more about data engineering and statistical modeling
 - 🎵 Actively developing **ModAudio** for research and creative sound experiments
-
----
 
 ## Connect
 
