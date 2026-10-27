@@ -80,6 +80,14 @@
   - 🗄️ Includes **PLpgSQL** for database-side logic and data operations
   - 🐚 Includes a small amount of **Shell** scripting for tooling and automation
 
+- ### 🏒 [Ultimate NHL Prediction Model](https://github.com/SHTG1itch/UltimateNHLPredictionModel)
+  A reproducible Python model that generates pre-game NHL win probabilities using sequential Bayesian modeling and walk-forward validation:
+  - 🧠 Combines Bayesian Plackett-Luce likelihoods, validation-weighted model averaging, and James-Stein shrinkage
+  - 🏒 Incorporates team strength, player and lineup chemistry Elo, schedule fatigue, and opponent-specific history
+  - 📊 Uses strict time-ordered evaluation to prevent future data leakage
+  - 🔬 Includes random-matrix covariance cleaning with auditable prediction ledgers and benchmark metrics
+  - 🐍 Built entirely with **Python** for statistical modeling, data processing, and CLI-based forecasts
+
 ---
 
 
